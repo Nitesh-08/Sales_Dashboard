@@ -1,2 +1,2 @@
 # Hotel_Dashboard
- Created a dashboard using Power BI
+ Created an intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data.
